@@ -29,7 +29,7 @@ int main()
 	cout<<"0 as in tails"<<endl;
 	cout<<"1 as in heads"<<endl;
 	cin>>num;
-	vector <int>arr(num);
+	vector<int> arr(num);
 	
 	for(int i = 0; i<arr.size(); i++)
 	{
